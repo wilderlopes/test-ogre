@@ -6,3 +6,4 @@ Make sure to install the following packages:
 - matplotlib
 - streamlit
 - ogre-cli
+- numpy
