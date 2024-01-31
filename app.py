@@ -3,5 +3,5 @@ import torch
 import numpy
 import matplotlib.pyplot as plt
 
-print("hello, ogre!")
+print("hello, ogre, hi!")
 print(streamlit.__version__())
