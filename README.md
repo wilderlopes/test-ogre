@@ -7,3 +7,4 @@ Make sure to install the following packages:
 - streamlit
 - ogre-cli
 - numpy
+- sklearn
